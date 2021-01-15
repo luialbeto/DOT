@@ -1,0 +1,8 @@
+{
+  "video": true,
+  "screenshotOnRunFailure": false,
+  "viewportWidth": 1536,
+  "viewportHeight": 960,
+  "defaultCommandTimeout": 1000,
+  "baseUrl": "https://www.americanas.com.br/"
+}
